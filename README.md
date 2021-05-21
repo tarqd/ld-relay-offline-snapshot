@@ -2,7 +2,7 @@
 
 Create LD Relay images configured in offline mode with the flag data copied in.
 
-**Warning**: Do not distribute the images created by this docker file. It will contain your flag rules. This is mostly for testing
+**Warning**: Do not distribute the images created by this docker file. It will contain your flag rules. This is mostly for testing. The autoconfig key, however, will not be in the image or history. Unless I read the docs wrong. 🤷‍♂️
 
 
 ## Usage
